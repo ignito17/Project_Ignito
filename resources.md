@@ -2,7 +2,9 @@
 
 ## 🧮 Discrete Mathematics
 - Book: Rosen – *Discrete Mathematics and Its Applications*
-- [MIT 6.042J Mathematics for Computer Science – Spring 2015 playlist](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/)
+- MIT 6.042J Mathematics for Computer Science – Spring 2015 playlist
+- [Youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ)
+- [MIT OCW](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/)
 - [MIT OCW Lecture Archieve](https://archive.org/details/MIT6.042JS15?utm_source=chatgpt.com) 
 ## 🐍 Python Core
 - Book: *Automate the Boring Stuff with Python* by Al Sweigart
